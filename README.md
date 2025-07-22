@@ -1,0 +1,2 @@
+# rune
+Bash Prompt
